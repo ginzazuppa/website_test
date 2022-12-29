@@ -34,8 +34,8 @@ export default function Footer() {
           <h3 className="text-xl font-semibold leading-snug -ml-4">
             Situs Kami
           </h3>
-          <p>Dokumentasi</p>
-          <p>Blog</p>
+           <a href="https://zuppasoup.my.id/">Dokumentasi</a>
+          <a href="https://zuppasoup.my.id/">Blog</a>
         </div>
         <div className="flex flex-col gap-y-[2px]">
           <h3 className="text-xl font-semibold leading-snug -ml-4">
