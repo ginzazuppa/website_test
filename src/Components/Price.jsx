@@ -250,7 +250,7 @@ export default function Price() {
       <div className="w-4/6  h-36 my-10 mx-auto text-xl text-center justify-center flex items-center flex-col tracking-wide sms:w-[90%]">
         <p>Harga Termasuk :</p>
         <p className="pt-2 sms:text-sm">
-          Gratis biaya pengiriman on the spot, Alat Makan(Sendok, Alas Cup,
+          Gratis biaya pengiriman oven on the spot, Alat Makan(Sendok, Alas Cup,
           Saos), 1 porsi free sample
         </p>
       </div>
@@ -259,7 +259,7 @@ export default function Price() {
         <CardEx body="" title="Free Sample Tester" srcImg={produk2} />
         <CardEx
           body=""
-          title="Bebas Biaya On The Spot"
+          title="Bebas Biaya Oven On The Spot"
           srcImg={courtFood2}
         />
         <CardEx
