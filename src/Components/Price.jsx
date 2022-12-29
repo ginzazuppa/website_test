@@ -259,7 +259,7 @@ export default function Price() {
         <CardEx body="" title="Free Sample Tester" srcImg={produk2} />
         <CardEx
           body=""
-          title="Bebas Biaya Over On The Spot"
+          title="Bebas Biaya On The Spot"
           srcImg={courtFood2}
         />
         <CardEx
